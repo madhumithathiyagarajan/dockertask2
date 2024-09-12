@@ -1,0 +1,9 @@
+{
+  "name": "my_website",
+  "version": "1.0.0",
+  "description": "Simple website displaying Madhumitha's basic details",
+  "main": "server.js",
+  "dependencies": {
+    "http": "^0.0.1-security"
+  }
+} 
